@@ -8,5 +8,3 @@ gem 'rspec'
 
 # Debugging
 gem 'pry'
-
-gem "rake", "~> 12.3"
